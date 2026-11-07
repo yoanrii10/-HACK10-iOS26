@@ -1,0 +1,3 @@
+Notas de diseño del Centro de Control HACK10 iOS 26.
+Los controles de esta primera versión son solo visuales.
+No son superposiciones del sistema ni reemplazan One UI.

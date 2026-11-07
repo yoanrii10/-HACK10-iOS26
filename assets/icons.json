@@ -1,0 +1,14 @@
+{
+  "theme": "HACK10 iOS 26",
+  "style": "Liquid Glass",
+  "icons": {
+    "wifi": "wifi",
+    "bluetooth": "bluetooth",
+    "airplane": "airplane",
+    "flashlight": "flashlight",
+    "brightness": "sun",
+    "volume": "speaker",
+    "battery": "battery",
+    "settings": "settings"
+  }
+}
